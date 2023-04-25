@@ -1,0 +1,354 @@
+/* ==================== @media(max-width: 1024px) ==================== */
+@media(max-width: 1025px) {
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 320px !important;
+    }
+
+
+    .lSSlideOuter .lSPager.lSGallery {
+        margin-top: -32px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery li {
+        width: 64px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 319px !important;
+    }
+
+    .middle_part {
+        height: 325px !important;
+    }
+
+    .beforeAfter {
+        height: 320px !important;
+    }
+
+}
+
+/* ==================== @media(max-width: 992px) ==================== */
+@media(max-width: 992px) {
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 400px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery {
+        margin-top: -40px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery li {
+        width: 80px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 399px !important;
+    }
+
+    .middle_part {
+        height: 405px !important;
+    }
+
+    .beforeAfter {
+        height: 400px !important;
+    }
+
+}
+
+/* ==================== @media(max-width: 840px) ==================== */
+@media(max-width: 840px) {
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 380px !important;
+    }
+
+
+    .lSSlideOuter .lSPager.lSGallery {
+        margin-top: -25px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery li {
+        width: 50px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 379px !important;
+    }
+
+    .middle_part {
+        height: 385px !important;
+    }
+
+    .beforeAfter {
+        height: 380px !important;
+    }
+
+}
+
+/* ==================== @media(max-width:767px) ==================== */
+@media(max-width: 768px) {
+
+    .dropdown_desktop {
+        display: none;
+    }
+
+    .dropdown_mobile {
+        display: block;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+
+    .mobile_tbn {
+        display: block;
+    }
+
+    .desktop_btn {
+        display: none;
+    }
+
+
+    .dropdown {
+        padding: 2px 40px;
+    }
+
+    .hero_slider {
+        padding: 30px 120px 30px;
+    }
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 450px !important;
+    }
+
+
+    .lSSlideOuter .lSPager.lSGallery {
+        margin-top: -40px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery li {
+        width: 80px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 449px !important;
+    }
+
+    .middle_part {
+        height: 455px !important;
+    }
+
+    .beforeAfter {
+        height: 450px !important;
+    }
+
+    /* all_section */
+    .all_section{
+        padding: 30px 0;
+    }
+    
+    /* What Do Part*/
+    .what_do_header h3 {
+        margin-left: 60px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .what_do_text{
+        text-align: center;
+    }
+    .copy_right p {
+        font-size: 14px;
+    }
+}
+
+/* ==================== @media(max-width:700px) ==================== */
+@media(max-width: 700px) {
+    .hero_slider {
+        padding: 30px 90px 30px;
+    }
+}
+
+/* ==================== @media(max-width:650px) ==================== */
+@media(max-width: 650px) {
+    .hero_slider {
+        padding: 30px 25px;
+    }
+}
+
+/* ==================== @media(max-width:550px) ==================== */
+@media(max-width: 550px) {
+    .hero_slider {
+        padding: 30px 10px;
+    }
+}
+
+.header_hero_part {
+    min-height: 80vh;
+}
+
+.hero_slider {
+    min-height: 70vh;
+}
+
+/* ==================== @media(max-width:460px) ==================== */
+@media(max-width: 480px) {
+    .hero_slider {
+        padding: 30px 0;
+    }
+
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 400px !important;
+    }
+
+
+    .lSSlideOuter .lSPager.lSGallery {
+        margin-top: -35px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery li {
+        width: 70px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 399px !important;
+    }
+
+    .middle_part {
+        height: 405px !important;
+    }
+
+    .beforeAfter {
+        height: 400px !important;
+    }
+}
+
+
+/* ==================== @media(max-width:426px) ==================== */
+@media(max-width: 426px) {
+
+    .navbar-brand img {
+        width: 200px;
+    }
+
+    .quote_btn {
+        padding: 8px 15px !important;
+    }
+
+    .dropdown {
+        padding: 0px 25px;
+    }
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 350px !important;
+    }
+
+
+    .lSSlideOuter .lSPager.lSGallery {
+        margin-top: -35px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery li {
+        width: 70px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 349px !important;
+    }
+
+    .middle_part {
+        height: 355px !important;
+    }
+
+    .beforeAfter {
+        height: 350px !important;
+    }
+
+    /* Submit Btn  */
+    input[type="submit"] {
+        width: 45%;
+    }
+}
+
+/* ==================== @media(max-width:375px) ==================== */
+@media(max-width: 376px) {
+
+    .dropdown {
+        padding: 0px 20px;
+    }
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 300px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 299px !important;
+    }
+
+    .middle_part {
+        height: 305px !important;
+    }
+
+    .beforeAfter {
+        height: 300px !important;
+    }
+
+    /* Submit Btn  */
+    input[type="submit"] {
+        width: 50%;
+    }
+}
+
+/* ==================== @media(max-width:321px) ==================== */
+@media(max-width: 321px) {
+
+    /* ---------- Images Slider CSS ---------- */
+    .images_slider {
+        height: 285px !important;
+    }
+
+
+    .lSSlideOuter .lSPager.lSGallery {
+        margin-top: -30px !important;
+    }
+
+    .lSSlideOuter .lSPager.lSGallery li {
+        width: 60px !important;
+    }
+
+
+    /* ---------- iframe CSS ---------- */
+    iframe {
+        height: 284px !important;
+    }
+
+    .middle_part {
+        height: 290px !important;
+    }
+
+    .beforeAfter {
+        height: 285px !important;
+    }
+}
